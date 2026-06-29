@@ -1,0 +1,21 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Configure Litra Beam BT",
+        "description": "Enter the Bluetooth MAC address of your Litra Beam lamp.",
+        "data": {
+          "mac": "Bluetooth MAC Address",
+          "name": "Device Name"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Failed to connect to the lamp.",
+      "invalid_mac": "The MAC address format is invalid."
+    },
+    "abort": {
+      "already_configured": "This Litra Beam is already configured."
+    }
+  }
+}

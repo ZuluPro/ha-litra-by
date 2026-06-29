@@ -8,6 +8,6 @@
     "git+https://github.com/ZuluPro/litra-driver-bt.git@main#litra-driver-bt==1.0.0"
   ],
   "iot_class": "local_polling",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "integration"
 }
