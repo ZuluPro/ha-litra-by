@@ -1,0 +1,13 @@
+{
+  "domain": "litra_beam_bt",
+  "name": "Litra Beam Bluetooth",
+  "codeowners": ["@ZuluPro"],
+  "dependencies": [],
+  "documentation": "https://github.com/Zulupro/ha-litra-bt",
+  "requirements": [
+    "git+https://github.com/ZuluPro/litra-driver-bt.git@main#litra-driver-bt==1.0.0"
+  ],
+  "iot_class": "local_polling",
+  "version": "1.0.0",
+  "type": "integration"
+}
